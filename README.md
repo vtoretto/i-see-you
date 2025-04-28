@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    A journey of Observability
+    Construindo a Observability brick-by-brick, meu chapa!
 </h3>
 
 <img alt="Repository size" src="https://img.shields.io/github/repo-size/vtoretto/datadog" align="center">
